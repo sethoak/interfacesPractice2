@@ -17,11 +17,11 @@ This is the list of animals you want to own and care for.
 
 Each month, you clean out all of the habitats in a single day for efficiency. On that day, all animals need to be put into temporary containers. Each container will hold animals of similar similar, but different, types.
 
-1 Animals that dig and live in the ground
-2 Animals that move about on the ground
-3 Animals that swim in water
-4 Animals that fly above the ground
-5 Before you write any classes for the above animals, determine the common properties and behaviors that some of them share and define interfaces first.
-6 Once you believe you have a good set of interfaces, then start creating your specific animal classes and have them implement the appropriate interface.
-7 Then define classes to represent the containers that will hold various animals. Each container class should have a single property - a list to hold animal instances.
-8 Lastly, in Main() create one (or more if you like) instances of each type of animal and each container. Then add the animals to their corresponding container.
+1. Animals that dig and live in the ground
+2. Animals that move about on the ground
+3. Animals that swim in water
+4. Animals that fly above the ground
+5. Before you write any classes for the above animals, determine the common properties and behaviors that some of them share and define interfaces first.
+6. Once you believe you have a good set of interfaces, then start creating your specific animal classes and have them implement the appropriate interface.
+7. Then define classes to represent the containers that will hold various animals. Each container class should have a single property - a list to hold animal instances.
+8. Lastly, in Main() create one (or more if you like) instances of each type of animal and each container. Then add the animals to their corresponding container.
