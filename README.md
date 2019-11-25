@@ -4,20 +4,21 @@ As an avid animal lover, you have started your very own collection of creatures 
 
 This is the list of animals you want to own and care for.
 
-Parakeets
-Earthworms
-Terrapins
-Timber Rattlesnake
-Mice
-Ants
-Finches
-Betta Fish
-Copperhead snake
-Gerbils
+* Parakeets
+* Earthworms
+* Terrapins
+* Timber Rattlesnake
+* Mice
+* Ants
+* Finches
+* Betta Fish
+* Copperhead snake
+* Gerbils
+
 Each month, you clean out all of the habitats in a single day for efficiency. On that day, all animals need to be put into temporary containers. Each container will hold animals of similar similar, but different, types.
 
-Animals that dig and live in the ground
-Animals that move about on the ground
+1 Animals that dig and live in the ground
+1 Animals that move about on the ground
 Animals that swim in water
 Animals that fly above the ground
 Before you write any classes for the above animals, determine the common properties and behaviors that some of them share and define interfaces first.
